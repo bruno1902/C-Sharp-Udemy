@@ -1,0 +1,6 @@
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex5\Ex5\obj\Debug\Ex5.pdb

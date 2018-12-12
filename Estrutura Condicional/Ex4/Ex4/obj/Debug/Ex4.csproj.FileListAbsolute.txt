@@ -1,0 +1,13 @@
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\Bruno-Windows\Desktop\C#\Estrutura Condicional\Ex4\Ex4\obj\Debug\Ex4.pdb
+C:\Users\bruno\Desktop\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\bruno\Desktop\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\bruno\Desktop\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\bruno\Desktop\Ex4\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\bruno\Desktop\Ex4\Ex4\obj\Debug\Ex4.pdb
