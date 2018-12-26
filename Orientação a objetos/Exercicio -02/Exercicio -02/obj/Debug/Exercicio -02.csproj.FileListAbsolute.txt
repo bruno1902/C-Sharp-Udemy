@@ -1,0 +1,7 @@
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\bin\Debug\Exercicio -02.exe.config
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\bin\Debug\Exercicio -02.exe
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\bin\Debug\Exercicio -02.pdb
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\obj\Debug\Exercicio -02.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\obj\Debug\Exercicio -02.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\obj\Debug\Exercicio -02.exe
+C:\Users\bruno\OneDrive\C# - Udemy\Orientação a objetos\Exercicio -02\Exercicio -02\obj\Debug\Exercicio -02.pdb
